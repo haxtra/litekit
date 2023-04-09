@@ -1,0 +1,12 @@
+{
+  "name": "litekit",
+  "version": "0.0.1",
+  "description": "Experimental, batteries-included style Node.js framework, for rapid development of small SQLite based apps and APIs",
+  "homepage": "https://github.com/haxtra/litekit",
+  "repository": "github:haxtra/litekit",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": ["framework","api","server","node","sqlite","koa","devtool","rad","litekit"],
+  "author": "Hax <hax@haxtra.com>",
+  "license": "MIT"
+}
